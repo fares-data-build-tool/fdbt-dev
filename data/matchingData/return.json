@@ -2,7 +2,7 @@
   "lineName": "11",
   "nocCode": "BLAC",
   "operatorShortName": "Blackpool Transport",
-  "type": "pointToPoint",
+  "type": "return",
   "inboundFareZones": [
     {
       "name": "test1",
