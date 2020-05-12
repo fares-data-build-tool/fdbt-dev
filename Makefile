@@ -32,6 +32,9 @@ generate-multi-service:
 generate-geo-zone:
 	./scripts/trigger_netex_convertor.sh fdbt-matching-data-dev periodGeoZone
 
+generate-return-service:
+	./scripts/trigger_netex_convertor.sh fdbt-matching-data-dev return
+
 validate-netex:
 	./scripts/trigger_netex_validator.sh fdbt-unvalidated-netex-data-dev $(file)
 
