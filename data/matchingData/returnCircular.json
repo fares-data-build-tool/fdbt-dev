@@ -83,16 +83,9 @@
           ]
         },
         {
-          "price": "1.50",
-          "fareZones": [
-            "test3"
-          ]
-        },
-        {
           "price": "2.00",
           "fareZones": [
-            "test2",
-            "test4"
+            "test2"
           ]
         },
         {
@@ -190,18 +183,6 @@
           "price": "0.50",
           "fareZones": [
             "test1"
-          ]
-        },
-        {
-          "price": "1.00",
-          "fareZones": [
-            "test3"
-          ]
-        },
-        {
-          "price": "1.50",
-          "fareZones": [
-            "test4"
           ]
         },
         {
