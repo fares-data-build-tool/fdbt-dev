@@ -1,6 +1,6 @@
 {
     "operatorName": "Blackpool Transport",
-    "type": "periodMultipleServices",
+    "type": "flatFare",
     "products": [
       {
         "productName": "gscafvd",
