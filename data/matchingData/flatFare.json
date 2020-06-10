@@ -79,5 +79,5 @@
   "ageRange": "Yes",
   "ageRangeMin": "65",
   "proof": "Yes",
-  "proofDocuments": ["Identity Document"]
+  "proofDocuments": ["identityDocument"]
 }
