@@ -647,7 +647,7 @@
       "prices": []
     }
   ],
-  "passengerType": "Adult",
+  "passengerType": "adult",
   "ageRange": "Yes",
   "ageRangeMin": "18",
   "proof": "No"

@@ -184,7 +184,7 @@
     }
   ],
   "inboundFareZones": [],
-  "passengerType": "Student",
+  "passengerType": "student",
   "ageRange": "Yes",
   "ageRangeMin": "12",
   "ageRangeMax": "25",

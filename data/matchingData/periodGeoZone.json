@@ -34,7 +34,7 @@
       "productValidity": "24hr"
     }
   ],
-  "passengerType": "Adult",
+  "passengerType": "adult",
   "ageRange": "Yes",
   "ageRangeMin": "18",
   "proof": "No",

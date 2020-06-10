@@ -384,7 +384,7 @@
       "prices": []
     }
   ],
-  "passengerType": "Child",
+  "passengerType": "child",
   "ageRange": "Yes",
   "ageRangeMax": "14",
   "proof": "No"

@@ -22,7 +22,7 @@
       "productValidity": "24hr"
     }
   ],
-  "passengerType": "Young Person",
+  "passengerType": "youngPerson",
   "ageRange": "Yes",
   "ageRangeMin": "16",
   "ageRangeMax": "25",

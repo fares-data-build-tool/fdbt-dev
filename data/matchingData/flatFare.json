@@ -75,7 +75,7 @@
       "serviceDescription": "MERESIDE - BLACKPOOL - GRANGE PARK"
     }
   ],
-  "passengerType": "Senior",
+  "passengerType": "senior",
   "ageRange": "Yes",
   "ageRangeMin": "65",
   "proof": "Yes",
