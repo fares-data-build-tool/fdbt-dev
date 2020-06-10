@@ -27,7 +27,7 @@
   "ageRangeMin": "16",
   "ageRangeMax": "25",
   "proof": "Yes",
-  "proofDocuments": "Identity Document",
+  "proofDocuments": ["Identity Document"],
   "selectedServices": [
     {
       "lineName": "2C",
