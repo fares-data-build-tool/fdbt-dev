@@ -32,15 +32,15 @@
   "proofDocuments": ["identityDocument"],
   "selectedServices": [
     {
-      "lineName": "2C",
-      "serviceCode": "NW_05_BLAC_2C_1",
-      "startDate": "05/04/2020",
+      "lineName": "25",
+      "serviceCode": "NW_07_BLAC_25_1",
+      "startDate": "06/04/2020",
       "serviceDescription": "KNOTT END - POULTON - BLACKPOOL"
     },
     {
-      "lineName": "17",
-      "serviceCode": "NW_05_BLAC_17_1",
-      "startDate": "05/04/2020",
+      "lineName": "25",
+      "serviceCode": "NW_07_BLAC_25_2",
+      "startDate": "13/04/2020",
       "serviceDescription": "BLACKPOOL - ST ANNES - LYTHAM"
     },
     {
