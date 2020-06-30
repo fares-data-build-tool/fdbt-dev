@@ -87,8 +87,8 @@ create-local-buckets:
 	awslocal s3 mb s3://fdbt-unvalidated-netex-data-dev
 
 create-local-dynamodb-table:
-	awslocal dynamodb create-table --attribute-definitions AttributeName=id,AttributeType=S --table-name local-sessions --key-schema AttributeName=id,KeyType=HASH --billing-mode PAY_PER_REQUEST
-	awslocal dynamodb update-time-to-live --table-name local-sessions --time-to-live-specification "Enabled=true, AttributeName=ttl"
+	awslocal dynamodb create-table --attribute-definitions AttributeName=id,AttributeType=S --table-name sessions --key-schema AttributeName=id,KeyType=HASH --billing-mode PAY_PER_REQUEST
+	awslocal dynamodb update-time-to-live --table-name sessions --time-to-live-specification "Enabled=true, AttributeName=ttl"
 
 create-sns-topics:
 	awslocal sns create-topic --name AlertsTopic
