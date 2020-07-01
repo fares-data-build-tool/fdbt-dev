@@ -2,6 +2,8 @@
   "operatorName": "Blackpool Transport",
   "nocCode": "BLAC",
   "type": "flatFare",
+  "email": "test@example.com",
+  "uuid": "BLAC1234567",
   "products": [
     {
       "productName": "Weekly Rider",
