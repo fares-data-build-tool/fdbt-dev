@@ -92,6 +92,13 @@
             "directDebit"
           ],
           "ticketFormats": ["mobileApp"]
+        },
+        {
+          "name": "All Encompassing",
+          "description": "All currently available options selected",
+          "purchaseLocations": ["onBoard", "online", "mobileDevice"],
+          "paymentMethods": ["cash", "debitCard", "creditCard", "mobilePhone"],
+          "ticketFormats": ["paperTicket", "mobileApp", "smartCard"]
         }
       ]
     }
