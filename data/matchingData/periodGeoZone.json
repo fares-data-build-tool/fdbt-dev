@@ -181,6 +181,9 @@
     }
   ],
   "passengerType": "adult",
+  "ageRange": "Yes",
+  "ageRangeMin": "18",
+  "proof": "No",
   "zoneName": "Test Town Centre",
   "stops": [
     {
