@@ -139,9 +139,6 @@
     }
   ],
   "passengerType": "group",
-  "ageRange": "Yes",
-  "ageRangeMin": "65",
-  "proof": "Yes",
   "proofDocuments": ["identityDocument"],
   "groupDefinition": {
     "maxPeople": "5",
