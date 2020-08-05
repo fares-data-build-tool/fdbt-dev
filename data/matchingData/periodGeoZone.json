@@ -180,10 +180,7 @@
       ]
     }
   ],
-  "passengerType": "adult",
-  "ageRange": "Yes",
-  "ageRangeMin": "18",
-  "proof": "No",
+  "passengerType": "group",
   "zoneName": "Test Town Centre",
   "stops": [
     {
@@ -366,5 +363,26 @@
       "indicator": "at",
       "street": "Midgley Road"
     }
-  ]
+  ],
+  "groupDefinition": {
+    "maxPeople": "5",
+    "companions": [
+      {
+        "passengerType": "adult",
+        "minNumber": 1,
+        "maxNumber": 2,
+        "minAge": 18,
+        "maxAge": 100,
+        "proofDocuments": ["identityDocument"]
+      },
+      {
+        "passengerType": "child",
+        "minNumber": 1,
+        "maxNumber": 3,
+        "minAge": 5,
+        "maxAge": 17,
+        "proofDocuments": ["identityDocument"]
+      }
+    ]
+  }
 }
