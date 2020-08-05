@@ -39,10 +39,20 @@ generate-flat-fare:
 
 generate-validate-flat-fare: generate-flat-fare validate-latest-file
 
+generate-flat-fare-group:
+	./scripts/trigger_netex_convertor.sh flatFareGroup
+
+generate-validate-flat-fare-group: generate-flat-fare-group validate-latest-file
+
 generate-geo-zone:
 	./scripts/trigger_netex_convertor.sh periodGeoZone
 
 generate-validate-geo-zone: generate-geo-zone validate-latest-file
+
+generate-geo-zone-group:
+	./scripts/trigger_netex_convertor.sh periodGeoZoneGroup
+
+generate-validate-geo-zone-group: generate-geo-zone-group validate-latest-file
 
 generate-return-service:
 	./scripts/trigger_netex_convertor.sh return
