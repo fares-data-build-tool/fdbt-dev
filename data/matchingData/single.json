@@ -7,7 +7,6 @@
   "email": "test@example.com",
   "uuid": "BLACc1363964",
   "timeRestriction": {
-    "startTime": "0500",
     "validDays": ["monday", "friday"]
   },
   "products": [

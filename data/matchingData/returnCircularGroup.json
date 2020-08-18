@@ -8,8 +8,10 @@
     "uuid": "BLACc1363964",
     "timeRestriction": {
         "endTime": "2000",
-        "validDays": ["friday"]
-      },    
+        "validDays": [
+            "friday"
+        ]
+    },
     "products": [
         {
             "salesOfferPackages": [
