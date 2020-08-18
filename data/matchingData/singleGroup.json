@@ -1071,5 +1071,11 @@
                 ]
             }
         ]
+    },
+    "timeRestrictions": {
+        "validDays": [
+            "monday",
+            "wednesday"
+        ]
     }
 }

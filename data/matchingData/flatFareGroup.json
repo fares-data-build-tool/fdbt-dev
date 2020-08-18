@@ -199,5 +199,9 @@
         ]
       }
     ]
+  },
+  "timeRestrictions": {
+    "startTime": "0600",
+    "endTime": "1200"
   }
 }

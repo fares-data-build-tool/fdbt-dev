@@ -502,5 +502,10 @@
         ]
       }
     ]
+  },
+  "timeRestrictions": {
+    "validDays": [
+      "monday"
+    ]
   }
 }
