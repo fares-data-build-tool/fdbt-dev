@@ -9,8 +9,8 @@
       "day": "monday",
       "timeBands": [
         {
-          "startTime": "",
-          "endTime": "000"
+          "startTime": "0600",
+          "endTime": "1000"
         }
       ]
     },
@@ -27,7 +27,7 @@
       "day": "wednesday",
       "timeBands": [
         {
-          "startTime": "",
+          "startTime": "1350",
           "endTime": "1950"
         }
       ]

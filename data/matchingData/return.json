@@ -11,8 +11,8 @@
       "day": "monday",
       "timeBands": [
         {
-          "startTime": "",
-          "endTime": "000"
+          "startTime": "1350",
+          "endTime": "2000"
         }
       ]
     },
@@ -24,7 +24,7 @@
           "endTime": "1700"
         },
         {
-          "startTime": "",
+          "startTime": "1350",
           "endTime": "2200"
         }
       ]
@@ -33,7 +33,7 @@
       "day": "wednesday",
       "timeBands": [
         {
-          "startTime": "",
+          "startTime": "1350",
           "endTime": "1950"
         }
       ]
