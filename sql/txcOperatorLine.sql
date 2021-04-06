@@ -8,7 +8,7 @@ INSERT INTO `txcOperatorLine` (id,nocCode,lineName,startDate,serviceCode,operato
 (9716,"BLAC","17","2020-04-05","NW_05_BLAC_17_1","Blackpool Transport","BLACKPOOL - ST ANNES - LYTHAM","NW","bods","Warcq","Carrión de los Céspedes"),
 (9798,"BLAC","4","2020-04-05","NW_05_BLAC_4_1","Blackpool Transport","CLEVELEYS - MERESIDE via Blackpool","NW","bods","Saint-Aubin-Routot","La Manzanilla de la Paz"),
 (9956,"BLAC","19","2020-04-05","NW_05_BLAC_19_1","Blackpool Transport","STAINING - BLACKPOOL via Victoria Hospital (Main Entrance)","NW","bods","Ahuacatlán","Dobre Miasto"),
-(9989,"BLAC","1","2020-04-05","NW_05_BLAC_1_1","Blackpool Transport","FLEETWOOD - BLACKPOOL via Promenade","NW","bods","Mount Pearl","Saint-Hilaire-de-Loulay"),
+(9989,"BLAC","1","2020-04-05","NW_05_BLAC_1_1","Blackpool Transport","FLEETWOOD - BLACKPOOL via Promenade","NW","bods",NULL,NULL),
 (10324,"BLAC","2","2020-04-05","NW_05_BLAC_2_1","Blackpool Transport","POULTON - BLACKPOOL via Victoria Hospital Outpatients","NW","tnds","Ballarat East","Florinas"),
 (10371,"BLAC","5","2020-04-05","NW_05_BLAC_5_1","Blackpool Transport","VICTORIA HOSPITAL - BLACKPOOL TOWN CENTRE - HALFWAY HOUSE","NW","tnds","Nāngloi Jāt","Canaman"),
 (10415,"BLAC","9","2020-04-05","NW_05_BLAC_9_1","Blackpool Transport","CLEVELEYS - BLACKPOOL via Bispham","NW","tnds","Rotava","Chichas"),
