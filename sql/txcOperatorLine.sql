@@ -4,7 +4,7 @@ LOCK TABLES `txcOperatorLine` WRITE;
 TRUNCATE TABLE `txcOperatorLine`;
 
 INSERT INTO `txcOperatorLine` (id,nocCode,lineName,lineId,startDate,serviceCode,operatorShortName,serviceDescription,regionCode,dataSource,origin,destination) VALUES
-(9379,"BLAC","2C","ivuAlu","2020-04-05","NW_05_BLAC_2C_1","Blackpool Transport","KNOTT END - POULTON - BLACKPOOL","NW","bods","Zhaishi Miaozu Dongzuxiang","Bimbaletes Aguascalientes (El Álamo)"),
+(9379,"BLAC","2C",NULL,"2020-04-05","NW_05_BLAC_2C_1","Blackpool Transport","KNOTT END - POULTON - BLACKPOOL","NW","bods","Zhaishi Miaozu Dongzuxiang","Bimbaletes Aguascalientes (El Álamo)"),
 (9716,"BLAC","17","vySmf0","2020-04-05","NW_05_BLAC_17_1","Blackpool Transport","BLACKPOOL - ST ANNES - LYTHAM","NW","bods","Warcq","Carrión de los Céspedes"),
 (9798,"BLAC","4","dPWnHm","2020-04-05","NW_05_BLAC_4_1","Blackpool Transport","CLEVELEYS - MERESIDE via Blackpool","NW","bods","Saint-Aubin-Routot","La Manzanilla de la Paz"),
 (9956,"BLAC","19","l7QdTQ","2020-04-05","NW_05_BLAC_19_1","Blackpool Transport","STAINING - BLACKPOOL via Victoria Hospital (Main Entrance)","NW","bods","Ahuacatlán","Dobre Miasto"),
