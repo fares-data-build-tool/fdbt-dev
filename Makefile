@@ -19,8 +19,8 @@ docker-restart:
 # NPM
 
 start-site:
-	npm --prefix ${FDBT_ROOT}/repos/fdbt-site run dev
-
+	NODE_OPTIONS=--max_old_space_size=4096 npm --prefix ${FDBT_ROOT}/repos/fdbt-site run dev
+	
 
 # NETEX CONVERTOR
 
